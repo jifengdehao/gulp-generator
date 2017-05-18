@@ -1,0 +1,28 @@
+{
+  "name": "pcwap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jifengdehao",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-connect": "*",
+    "gulp-cssmin": "*",
+    "gulp-less": "*",
+    "gulp-load-plugins": "*",
+    "gulp-plumber": "*",
+    "open": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-imagemin": "*",
+    "imagemin-pngquant":"*",
+    "gulp-htmlmin":"*",
+    "gulp-uglify":"*",
+    "gulp-concat":"*",
+    "gulp-rename":"*",
+    "gulp-clean": "*"
+  }
+}
